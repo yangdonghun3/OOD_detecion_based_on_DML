@@ -10,7 +10,7 @@ This project is for the paper "Out-of-Distribution Detection Based on Distance M
 ## Experiments
 We provide two expeiments of ood detection ( In-distribution:MNIST/Out-Distribution:FashionMNIST and In-distribution:FashionMNIST/Out-Distribution:MNIST)
 
-- Model training (Resnet34, Siamise with ResNet34, Triplet with ResNet34) 
+-- Model training (Resnet34, Siamise with ResNet34, Triplet with ResNet34) 
 ```
 Run all code in network_trainner.ipynb
 You can see trained models in trained_models
