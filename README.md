@@ -1,9 +1,7 @@
 # Out-of-Distribution Detection Based on Distance Metric Learning
 
 ## Introduction
-This project is for the paper "Out-of-Distribution Detection Based on Distance Metric Learning". Some codes are from [Mahalanobis-based OOD Detection](https://github.com/pokaxpoka/deep_Mahalanobis_detector/).
-
-This repository contains source code of experiments used in paper of Out-of-Distribution Detection Based on Distance Metric Learning (SMA 2020 in Korea).
+This project is for the paper "Out-of-Distribution Detection Based on Distance Metric Learning". Some codes are from [ODIN](https://github.com/facebookresearch/odin) and [Mahalanobis-based OOD Detection](https://github.com/pokaxpoka/deep_Mahalanobis_detector/).
 
 ## Requirements
 
